@@ -1,0 +1,15 @@
+<?php
+
+function testfun()
+{
+	echo
+	"ASSIGNMENT ON PHP
+	<br><br>
+	NAME: SAMUEL CHIDIEBERE CHIMA <br/>
+	REG NO: 2021/HND/33730/CS <br/>
+	STATE OF ORIGIN: EBONYI STATE <br/>
+	PROJECT TOPIC: MOVIE SUCCESS PREDICTION USING DATA MINING";
+}
+
+testfun();
+?>
